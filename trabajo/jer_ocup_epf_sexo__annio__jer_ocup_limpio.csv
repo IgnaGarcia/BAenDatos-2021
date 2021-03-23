@@ -1,0 +1,151 @@
+anio,sexo,porc_asalariados,jerarquia_ocupacional
+2010,TOTAL,3.6446202707807926,Directivo
+2010,TOTAL,1.8735915456096055,Jefe intermedio administrativo-contable
+2010,TOTAL,4.486010139324451,Jefe intermedio de producción de bienes y servicios
+2010,TOTAL,22.294318935096893,Ejecución directa de tareas administrativo-contables
+2010,TOTAL,67.70145910918826,Ejecución directa de producción de biene y servicios
+2010,m,2.60299404378569,Directivo
+2010,m,1.9799447143294668,Jefe intermedio administrativo-contable
+2010,m,3.3784610285826813,Jefe intermedio de producción de bienes y servicios
+2010,m,28.80573561588205,Ejecución directa de tareas administrativo-contables
+2010,m,63.23286459742013,Ejecución directa de producción de biene y servicios
+2010,v,4.308938296486445,Directivo
+2010,v,1.8068532986818384,Jefe intermedio administrativo-contable
+2010,v,5.197292185877346,Jefe intermedio de producción de bienes y servicios
+2010,v,18.12385115042552,Ejecución directa de tareas administrativo-contables
+2010,v,70.56306506852887,Ejecución directa de producción de biene y servicios
+2011,TOTAL,3.340944927246172,Directivo
+2011,TOTAL,2.0076480905280047,Jefe intermedio administrativo-contable
+2011,TOTAL,4.235378389688038,Jefe intermedio de producción de bienes y servicios
+2011,TOTAL,20.8444415094114,Ejecución directa de tareas administrativo-contables
+2011,TOTAL,69.57158708312636,Ejecución directa de producción de biene y servicios
+2011,m,2.33175468791776,Directivo
+2011,m,2.188487827253049,Jefe intermedio administrativo-contable
+2011,m,2.884674914514664,Jefe intermedio de producción de bienes y servicios
+2011,m,29.659292833696963,Ejecución directa de tareas administrativo-contables
+2011,m,62.935789736617565,Ejecución directa de producción de biene y servicios
+2011,v,3.901736959686924,Directivo
+2011,v,1.9052597656235468,Jefe intermedio administrativo-contable
+2011,v,4.996297952958675,Jefe intermedio de producción de bienes y servicios
+2011,v,15.92675871878483,Ejecución directa de tareas administrativo-contables
+2011,v,73.26994660294605,Ejecución directa de producción de biene y servicios
+2012,TOTAL,3.927063787855534,Directivo
+2012,TOTAL,2.080486380468424,Jefe intermedio administrativo-contable
+2012,TOTAL,4.665581450523004,Jefe intermedio de producción de bienes y servicios
+2012,TOTAL,23.12719349297123,Ejecución directa de tareas administrativo-contables
+2012,TOTAL,66.19967488818182,Ejecución directa de producción de biene y servicios
+2012,m,2.8759217804544406,Directivo
+2012,m,2.4131214906516827,Jefe intermedio administrativo-contable
+2012,m,3.986361043070165,Jefe intermedio de producción de bienes y servicios
+2012,m,31.749202222247767,Ejecución directa de tareas administrativo-contables
+2012,m,58.975393463575955,Ejecución directa de producción de biene y servicios
+2012,v,4.531019459477889,Directivo
+2012,v,1.89218499044682,Jefe intermedio administrativo-contable
+2012,v,5.055675402444778,Jefe intermedio de producción de bienes y servicios
+2012,v,18.209397638508865,Ejecución directa de tareas administrativo-contables
+2012,v,70.31172250912164,Ejecución directa de producción de biene y servicios
+2013,TOTAL,4.4,Directivo
+2013,TOTAL,2.4,Jefe intermedio administrativo-contable
+2013,TOTAL,4.7,Jefe intermedio de producción de bienes y servicios
+2013,TOTAL,23.6,Ejecución directa de tareas administrativo-contables
+2013,TOTAL,64.9,Ejecución directa de producción de biene y servicios
+2013,m,3.3,Directivo
+2013,m,2.5,Jefe intermedio administrativo-contable
+2013,m,3.5,Jefe intermedio de producción de bienes y servicios
+2013,m,30.2,Ejecución directa de tareas administrativo-contables
+2013,m,60.6,Ejecución directa de producción de biene y servicios
+2013,v,5.1,Directivo
+2013,v,2.3,Jefe intermedio administrativo-contable
+2013,v,5.5,Jefe intermedio de producción de bienes y servicios
+2013,v,19.4,Ejecución directa de tareas administrativo-contables
+2013,v,67.7,Ejecución directa de producción de biene y servicios
+2014,TOTAL,4.3,Directivo
+2014,TOTAL,2.0,Jefe intermedio administrativo-contable
+2014,TOTAL,4.6,Jefe intermedio de producción de bienes y servicios
+2014,TOTAL,25.9,Ejecución directa de tareas administrativo-contables
+2014,TOTAL,63.2,Ejecución directa de producción de biene y servicios
+2014,m,3.0,Directivo
+2014,m,2.3,Jefe intermedio administrativo-contable
+2014,m,3.2,Jefe intermedio de producción de bienes y servicios
+2014,m,34.3,Ejecución directa de tareas administrativo-contables
+2014,m,57.2,Ejecución directa de producción de biene y servicios
+2014,v,5.1,Directivo
+2014,v,1.9,Jefe intermedio administrativo-contable
+2014,v,5.4,Jefe intermedio de producción de bienes y servicios
+2014,v,20.8,Ejecución directa de tareas administrativo-contables
+2014,v,66.9,Ejecución directa de producción de biene y servicios
+2015,TOTAL,3.3,Directivo
+2015,TOTAL,2.1,Jefe intermedio administrativo-contable
+2015,TOTAL,3.9,Jefe intermedio de producción de bienes y servicios
+2015,TOTAL,27.0,Ejecución directa de tareas administrativo-contables
+2015,TOTAL,63.7,Ejecución directa de producción de biene y servicios
+2015,m,2.2,Directivo
+2015,m,2.4,Jefe intermedio administrativo-contable
+2015,m,3.2,Jefe intermedio de producción de bienes y servicios
+2015,m,34.9,Ejecución directa de tareas administrativo-contables
+2015,m,57.3,Ejecución directa de producción de biene y servicios
+2015,v,4.0,Directivo
+2015,v,1.9,Jefe intermedio administrativo-contable
+2015,v,4.3,Jefe intermedio de producción de bienes y servicios
+2015,v,22.3,Ejecución directa de tareas administrativo-contables
+2015,v,67.5,Ejecución directa de producción de biene y servicios
+2016,TOTAL,3.0,Directivo
+2016,TOTAL,2.2,Jefe intermedio administrativo-contable
+2016,TOTAL,4.4,Jefe intermedio de producción de bienes y servicios
+2016,TOTAL,24.4,Ejecución directa de tareas administrativo-contables
+2016,TOTAL,65.9,Ejecución directa de producción de biene y servicios
+2016,m,2.2,Directivo
+2016,m,2.2,Jefe intermedio administrativo-contable
+2016,m,3.2,Jefe intermedio de producción de bienes y servicios
+2016,m,31.6,Ejecución directa de tareas administrativo-contables
+2016,m,60.7,Ejecución directa de producción de biene y servicios
+2016,v,3.5,Directivo
+2016,v,2.2,Jefe intermedio administrativo-contable
+2016,v,5.0,Jefe intermedio de producción de bienes y servicios
+2016,v,20.2,Ejecución directa de tareas administrativo-contables
+2016,v,69.0,Ejecución directa de producción de biene y servicios
+2017,TOTAL,3.8,Directivo
+2017,TOTAL,2.3,Jefe intermedio administrativo-contable
+2017,TOTAL,4.3,Jefe intermedio de producción de bienes y servicios
+2017,TOTAL,23.1,Ejecución directa de tareas administrativo-contables
+2017,TOTAL,66.6,Ejecución directa de producción de biene y servicios
+2017,m,3,Directivo
+2017,m,2.3,Jefe intermedio administrativo-contable
+2017,m,3.4,Jefe intermedio de producción de bienes y servicios
+2017,m,28.9,Ejecución directa de tareas administrativo-contables
+2017,m,62.4,Ejecución directa de producción de biene y servicios
+2017,v,4.3,Directivo
+2017,v,2.3,Jefe intermedio administrativo-contable
+2017,v,5,Jefe intermedio de producción de bienes y servicios
+2017,v,19.3,Ejecución directa de tareas administrativo-contables
+2017,v,69.3,Ejecución directa de producción de biene y servicios
+2018,TOTAL,3.6,Directivo
+2018,TOTAL,2.4,Jefe intermedio administrativo-contable
+2018,TOTAL,3.9,Jefe intermedio de producción de bienes y servicios
+2018,TOTAL,24.2,Ejecución directa de tareas administrativo-contables
+2018,TOTAL,65.9,Ejecución directa de producción de biene y servicios
+2018,m,2.7,Directivo
+2018,m,2.5,Jefe intermedio administrativo-contable
+2018,m,3.4,Jefe intermedio de producción de bienes y servicios
+2018,m,29.9,Ejecución directa de tareas administrativo-contables
+2018,m,61.4,Ejecución directa de producción de biene y servicios
+2018,v,4.2,Directivo
+2018,v,2.4,Jefe intermedio administrativo-contable
+2018,v,4.2,Jefe intermedio de producción de bienes y servicios
+2018,v,20.4,Ejecución directa de tareas administrativo-contables
+2018,v,68.9,Ejecución directa de producción de biene y servicios
+2019,TOTAL,4,Directivo
+2019,TOTAL,1.8,Jefe intermedio administrativo-contable
+2019,TOTAL,4,Jefe intermedio de producción de bienes y servicios
+2019,TOTAL,26.4,Ejecución directa de tareas administrativo-contables
+2019,TOTAL,63.7,Ejecución directa de producción de biene y servicios
+2019,m,2.7,Directivo
+2019,m,1.7,Jefe intermedio administrativo-contable
+2019,m,3.3,Jefe intermedio de producción de bienes y servicios
+2019,m,32.8,Ejecución directa de tareas administrativo-contables
+2019,m,59.5,Ejecución directa de producción de biene y servicios
+2019,v,5,Directivo
+2019,v,1.9,Jefe intermedio administrativo-contable
+2019,v,4.6,Jefe intermedio de producción de bienes y servicios
+2019,v,21.9,Ejecución directa de tareas administrativo-contables
+2019,v,66.7,Ejecución directa de producción de biene y servicios
